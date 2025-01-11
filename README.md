@@ -1,0 +1,1 @@
+This example demonstrates a potential issue in Groovy related to its dynamic typing.  The `myMethod` expects a String argument.  The last call to `myMethod()` without an argument is valid Groovy syntax, but might not produce the intended outcome. The solution showcases a possible workaround.
